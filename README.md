@@ -15,3 +15,6 @@ This project simulates a segmented three-zone network using Cisco Packet Tracer.
 
 ## Files Included:
 [Network Security Design Report.pdf](./Network%20Security%20Design%20Report.pdf) – Full documentation
+## 📜 Certifications
+
+- [Deloitte Cybersecurity Virtual Internship Certificate](./Deloitte_Cybersecurity_Internship_Certificate.pdf)
