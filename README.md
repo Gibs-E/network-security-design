@@ -14,4 +14,4 @@ This project simulates a segmented three-zone network using Cisco Packet Tracer.
 - Risk assessment & mitigation strategies
 
 ## Files Included:
-- `Network Security Design Report.docx` – Full documentation (to be uploaded)
+[Network Security Design Report.pdf](./Network%20Security%20Design%20Report.pdf) – Full documentation
