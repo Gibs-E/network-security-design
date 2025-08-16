@@ -1,6 +1,17 @@
 # Network Security Design Project
 
-This project simulates a segmented three-zone network using Cisco Packet Tracer. It demonstrates basic network security measures including access control lists (ACLs), VLAN segmentation, and risk mitigation strategies.
+This project demonstrates the design and implementation of a secure three-zone network topology using Cisco Packet Tracer. It simulates real-world enterprise segmentation with an Inside Zone, Guest Zone, and Public-facing Outside Zone, and applies security controls to protect sensitive resources.
+
+Key Features
+	•	VLAN Segmentation – isolates traffic between zones
+	•	Access Control Lists (ACLs) – block unauthorized traffic
+	•	Firewall Rules – enforce basic perimeter defense
+	•	Risk Assessment & Mitigation – documented strategies for common threats
+
+Deliverables
+	•	Topology Diagram – visual representation of the three-zone design
+	•	5-Page Report – detailed documentation covering configuration, security decisions, and mitigation strategies
+	•	Cisco Packet Tracer Implementation – practical simulation of the full design
 
 ## Zones:
 - **Inside Zone:** 192.168.1.0/24 (PC-A)
